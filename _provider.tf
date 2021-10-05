@@ -1,4 +1,4 @@
 provider "aws" {
-  region = "your region"
+  region = var.region
   profile = "your profile" // your aws profile name
 }

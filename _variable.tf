@@ -15,5 +15,5 @@ variable "accountId" {
 
 variable "region" {
   type = string
-  default = "your region"
+  default = "us-east-1"
 }
